@@ -1,3 +1,3 @@
 # Quantitative-Finance
 
-A repository containing financial models written in C++, Python, and Matlab.
+A repository containing financial models written in C++ and Python.
